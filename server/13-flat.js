@@ -1,4 +1,4 @@
-// flat maps all array elements and creates a new flat array. Accepts the number of level to apply.
+// flat concatenates sub-array elements. Accepts the number of level to apply.
 
 const matrix = [
   [1, 2, 3],
